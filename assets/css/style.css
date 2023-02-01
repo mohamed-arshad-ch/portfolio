@@ -1233,7 +1233,8 @@ section {
 
 
 .profile-card-2 {
-  max-width: 380px;
+  max-width: 600px;
+  max-height: 600px;
   background-color: #FFF;
   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
   background-position: center;
